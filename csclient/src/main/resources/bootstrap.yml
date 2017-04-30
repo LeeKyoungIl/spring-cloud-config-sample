@@ -7,3 +7,11 @@ spring:
   cloud:
     config:
       uri: http://localhost:8093
+
+endpoints:
+  refresh:
+    enabled: true
+
+management:
+  security:
+    enabled: false
