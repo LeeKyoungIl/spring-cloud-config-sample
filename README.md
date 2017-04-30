@@ -1,6 +1,6 @@
 # spring-cloud-config-sample
 
-This is a simple Spring Cloud Config Server for Spring Boot/Cloud Application.
+This is a sample of Spring Cloud Config Server for Spring Boot/Cloud Application.
 
 # Usage
 - install JDK 1.8
